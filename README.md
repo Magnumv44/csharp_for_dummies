@@ -15,4 +15,4 @@
 В главе рассматриваются основы работы с Visual Studio.
 
 Первое консольное приложение созданное на основе .NET Framework, в котом пользователю предлагаеться ввести свое, затем оно же будет выведено на экран.
-[Вместо Hello World](/csharp_for_dummies/blob/main/ch1/Program1/Program1/Program.cs "Нажмите что-бы открыть")
+[Вместо Hello World](/ch1/Program1/Program1/Program.cs "Нажмите что-бы открыть")
